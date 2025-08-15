@@ -1,0 +1,15 @@
+{
+  "symbol": "NIFTY",
+  "expiry": "28-Aug-2025",
+  "underlying": 24631.3,
+  "pcr_oi": 0.9670099095146786,
+  "support_strike": 24500,
+  "resistance_strike": 25000,
+  "direction": null,
+  "strike": null,
+  "ltp": null,
+  "iv": null,
+  "stop_loss_pct": 0.3,
+  "take_profit_pct": 0.6,
+  "reason": "No clear edge | PCR=0.97, ATM ΔOI: CE=1356, PE=1692, IVs: CE=9.7, PE=11.2"
+}
